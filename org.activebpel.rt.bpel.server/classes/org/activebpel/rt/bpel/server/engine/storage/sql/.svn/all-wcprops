@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql
+END
+AeDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeDataSource.java
+END
+IAeQueueColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeQueueColumns.java
+END
+common-sql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/common-sql.xml
+END
+AeSQLProcessStateStorageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLProcessStateStorageProvider.java
+END
+AeJNDIDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeJNDIDataSource.java
+END
+IAeJournalSQLKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeJournalSQLKeys.java
+END
+informix-sql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/informix-sql.xml
+END
+IAeProcessSQLKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeProcessSQLKeys.java
+END
+IAeSchedulerSQLKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeSchedulerSQLKeys.java
+END
+AeSQLQueueStorageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLQueueStorageProvider.java
+END
+AeDebugConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeDebugConnection.java
+END
+AeSQLCoordinationStorageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLCoordinationStorageProvider.java
+END
+AeAbstractSQLStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeAbstractSQLStorage.java
+END
+AeMonitoredDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeMonitoredDataSource.java
+END
+AeResultSetHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeResultSetHandlers.java
+END
+derby-sql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/derby-sql.xml
+END
+mysql-sql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/mysql-sql.xml
+END
+oracle-sql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/oracle-sql.xml
+END
+IAeCoordinationSQLKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeCoordinationSQLKeys.java
+END
+db2-sql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/db2-sql.xml
+END
+AeDelegatingDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeDelegatingDataSource.java
+END
+AeSQLJournalStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLJournalStorage.java
+END
+AeListingResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeListingResultSetHandler.java
+END
+AeAbstractSQLStorageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeAbstractSQLStorageProvider.java
+END
+AeSQLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLObject.java
+END
+AeSQLDatabaseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLDatabaseType.java
+END
+IAeProcessColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeProcessColumns.java
+END
+IAeSchedulerColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeSchedulerColumns.java
+END
+AeConnectionProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeConnectionProxyFactory.java
+END
+IAeURNSQLKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeURNSQLKeys.java
+END
+AeSQLProcessStateConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLProcessStateConnectionProvider.java
+END
+IAeTransmissionTrackerSQLKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeTransmissionTrackerSQLKeys.java
+END
+sqlserver-sql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/sqlserver-sql.xml
+END
+AeQueryRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeQueryRunner.java
+END
+IAeCoordinationColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeCoordinationColumns.java
+END
+AeSQLStorageConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLStorageConnection.java
+END
+AeSQLVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLVersion.java
+END
+AeSQLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLFilter.java
+END
+AeDbUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeDbUtils.java
+END
+AeSQLAttachmentStorageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLAttachmentStorageProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/package.html
+END
+IAeQueueSQLKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeQueueSQLKeys.java
+END
+AeSQLCounterStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLCounterStore.java
+END
+IAeURNColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeURNColumns.java
+END
+AeConnectionInvocationHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeConnectionInvocationHandlerFactory.java
+END
+IAeTransmissionTrackerColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/IAeTransmissionTrackerColumns.java
+END
+AeSQLURNStorageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLURNStorageProvider.java
+END
+AeSQLTransmissionTrackerStorageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLTransmissionTrackerStorageProvider.java
+END
+AeSQLConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLConfig.java
+END
+AeSQLStorageProviderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/AeSQLStorageProviderFactory.java
+END

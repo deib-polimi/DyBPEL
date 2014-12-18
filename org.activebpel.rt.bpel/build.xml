@@ -1,0 +1,121 @@
+<project name="org.activebpel.rt.bpel" default="jar tomcat/shared/lib/ae_rtbpel.jar" basedir=".">
+	<description>
+       File di build per la creazione della libreria ae_rtbpel.jar e la copia 
+   	   nella directory shared\lib nella quale è deployata activeBPEL
+   </description>
+
+	<!-- ================== Property Definitions ===================== -->
+
+	<property file="ae.build.properties"/>
+	<property file="${basedir}/ae.build.properties"/>
+
+	<!-- ================= File and Directory Names ==================== -->
+
+	<property name="local_dist_dir" value="${basedir}/dist"/>
+	<property name="toplink_dist_dir" value="C:/PROGETTI_EU/sla@soi/workspace/Toplink-LIB"/>
+	<property name="tomcat_dist_dir" value="C:/Programmi/apache-tomcat-5.5.27/shared/lib"/>
+	<property name="tomcat_bin_dir" value="C:/Programmi/apache-tomcat-5.5.27/bin"/>
+	<property name="eng_dist_dir" value="C:/Documents and Settings/secse1/Documenti/eclipse3_2/workspace/ENG-SWS-Distribution"/>
+	<property name="eng_ws-lib_dir" value="C:/Documents and Settings/secse1/Documenti/eclipse3_2/workspace/ENG-SWS-Distribution/ws-lib"/>
+	<property name="eng_sws-lib_dir" value="C:/Documents and Settings/secse1/Documenti/eclipse3_2/workspace/ENG-SWS-Distribution/sws-lib"/>
+	<property name="src"  value="${basedir}/src"/>
+	<property name="classes"  value="${basedir}/classes"/>
+	<property name="META-INF"  value="${basedir}/META-INF"/>
+
+	<!-- ================= Targets List ==================== -->
+
+	<target name="jar tomcat/shared/lib/ae_rtbpel.jar" depends="Make local_dist_dir, jar local_dist_dir/ae_rtbpel.jar, Copy ae_rtbpel.jar in tomcat/shared/lib">
+	</target>
+
+	<target name="Make local_dist_dir">
+		<delete dir="${local_dist_dir}" />
+		<mkdir dir="${local_dist_dir}" />
+	</target>
+
+	<target name="jar local_dist_dir/ae_rtbpel.jar">
+		<mkdir dir="${classes}/META-INF" />
+		<mkdir dir="${classes}/ddl"/>
+		<copydir dest="${classes}/META-INF" src="${META-INF}"/>
+		<jar destfile="${local_dist_dir}/ae_rtbpel.jar" basedir="${classes}" update="true"/>
+	</target>
+
+	<target name="Copy ae_rtbpel.jar in tomcat/shared/lib">
+		<copy todir="${tomcat_dist_dir}" overwrite="true">
+			<fileset dir="${local_dist_dir}" includes="ae_rtbpel.jar"/>
+		</copy>
+	</target>
+
+	<target name="Start_Tomcat">
+		<exec dir="." executable="cmd" os="Windows XP">
+			<arg line="/C ${tomcat_bin_dir}/startup.bat"/>
+		</exec>
+	</target>
+
+	<target name="Stop_Tomcat">
+		<exec dir="." executable="cmd" os="Windows XP">
+			<arg line="/C ${tomcat_bin_dir}/shutdown.bat"/>
+		</exec>
+	</target>
+
+	<target name="jar tomcat/shared/lib/it-eng-ws-ri.jar">
+		<copy todir="${tomcat_dist_dir}" overwrite="true">
+			<fileset dir="${eng_dist_dir}/dist" includes="it-eng-ws-ri.jar"/>
+			<fileset dir="${eng_ws-lib_dir}" includes="jaxb-xjc.jar"/>
+			<fileset dir="${eng_ws-lib_dir}" includes="persistence-api-1.0.jar"/>
+			<fileset dir="${eng_ws-lib_dir}" includes="relaxngDatatype.jar"/>
+			<fileset dir="${eng_ws-lib_dir}" includes="jdom.jar"/>
+		</copy>
+	</target>
+	
+	<target name="jar tomcat/shared/lib/it-eng-sws-ri.jar">
+	    <delete dir="tempBuild" />
+		<mkdir dir="tempBuild" />
+	    <copy todir="tempBuild">
+          <zipfileset src="${eng_dist_dir}/dist/it-eng-sws-ri.jar"/>
+          <fileset dir="${eng_dist_dir}/jdoProperties/jdometadata-mysql" includes="jdo.properties"/>
+          <fileset dir="${eng_dist_dir}/jdoProperties/jdometadata-mysql" includes="package.jdo"/> 
+		</copy>
+		<jar destfile="${tomcat_dist_dir}/it-eng-sws-ri.jar" basedir="tempBuild" update="true" />
+		<delete dir="tempBuild" />
+		<copy todir="${tomcat_dist_dir}" overwrite="true">
+			<fileset dir="${eng_sws-lib_dir}/Jena2.1-LIB" includes="*.jar"/>
+			<fileset dir="${eng_sws-lib_dir}/JPOX1.1.7-LIB" includes="*.jar"/>
+			<fileset dir="${eng_sws-lib_dir}/MySQL-LIB" includes="*.jar"/>
+			<fileset dir="${eng_sws-lib_dir}/Toplink-LIB" includes="*.jar"/>
+		</copy>
+	</target>
+	
+		<target name="jar tomcat/shared/lib/it-eng-sws-ri-withSRC.jar">
+	    <delete dir="tempBuild" />
+		<mkdir dir="tempBuild" />
+	    <copy todir="tempBuild">
+          <zipfileset src="${eng_dist_dir}/dist/it-eng-sws-ri-withSRC.jar"/>
+          <fileset dir="${eng_dist_dir}/jdoProperties/jdometadata-mysql" includes="jdo.properties"/>
+          <fileset dir="${eng_dist_dir}/jdoProperties/jdometadata-mysql" includes="package.jdo"/> 
+		</copy>
+		<!-- Cancello la libreria senza sorgenti se c'è -->
+		<delete>
+			<fileset dir="${tomcat_dist_dir}" includes="it-eng-sws-ri.jar" />
+		</delete>
+		<!-- Copio la libreria con i sorgenti -->
+		<jar destfile="${tomcat_dist_dir}/it-eng-sws-ri-withSRC.jar" basedir="tempBuild" update="true" />
+		<delete dir="tempBuild" />
+		<copy todir="${tomcat_dist_dir}" overwrite="true">
+			<fileset dir="${eng_sws-lib_dir}/Jena2.1-LIB" includes="*.jar"/>
+			<fileset dir="${eng_sws-lib_dir}/JPOX1.1.7-LIB" includes="*.jar"/>
+			<fileset dir="${eng_sws-lib_dir}/MySQL-LIB" includes="*.jar"/>
+			<fileset dir="${eng_sws-lib_dir}/Toplink-LIB" includes="*.jar"/>
+		</copy>
+	</target>
+	
+
+	<target name="jar tomcat/shared/lib/toplink-essentials.jar">
+		<copy todir="${tomcat_dist_dir}" overwrite="true">
+			<fileset dir="${toplink_dist_dir}" includes="toplink-essentials.jar"/>
+		</copy>
+	</target>
+
+</project>
+
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="var" path="AEDEV/lib/qname.jar"/>
+	<classpathentry exported="true" kind="var" path="AEDEV/lib/wsdl4j.jar" sourcepath="AEDEV/external/wsdl4j/wsdl4j-src.zip"/>
+	<classpathentry exported="true" kind="var" path="AEDEV/lib/jaxen-1.1-beta-8.jar" sourcepath="AEDEV/external/jaxen/jaxen-1.1-beta-8-src.zip"/>
+	<classpathentry exported="true" kind="var" path="AEDEV/lib/castor-1.0-xml.jar" sourcepath="AEDEV/external/castor/1.0/castor-1.0-src.zip"/>
+	<classpathentry exported="true" kind="var" path="AEDEV/lib/commons-logging.jar"/>
+	<classpathentry exported="true" kind="var" path="AEDEV/lib/commonj-twm.jar" sourcepath="AEDEV/external/commonJ/Commonj-TimerWorkMgr-Source-v1.1.zip"/>
+	<classpathentry exported="true" kind="var" path="AEDEV/lib/xalan.jar" sourcepath="/AEDEV/external/xalan/xalan-j-2.6.0-src-2jars.zip"/>
+	<classpathentry exported="true" kind="var" path="AEDEV/lib/saaj.jar" sourcepath="AEDEV/external/axis/axis-src-1_4.zip"/>
+	<classpathentry kind="var" path="AEDEV"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

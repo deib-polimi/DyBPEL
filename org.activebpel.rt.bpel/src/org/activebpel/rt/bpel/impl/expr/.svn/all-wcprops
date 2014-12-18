@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr
+END
+IAeExpressionRunnerVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/IAeExpressionRunnerVariableResolver.java
+END
+AeAbstractExpressionRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/AeAbstractExpressionRunner.java
+END
+AeAbstractExpressionTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/AeAbstractExpressionTypeConverter.java
+END
+AeExprFunctionExecutionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/AeExprFunctionExecutionContext.java
+END
+AeExpressionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/AeExpressionException.java
+END
+AeExpressionRunnerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/AeExpressionRunnerContext.java
+END
+AeExpressionRunnerVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/AeExpressionRunnerVariableResolver.java
+END
+IAeExpressionRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/IAeExpressionRunner.java
+END
+IAeExpressionTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/IAeExpressionTypeConverter.java
+END
+IAeExpressionRunnerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/IAeExpressionRunnerContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/expr/package.html
+END

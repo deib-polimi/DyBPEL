@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors
+END
+IAeImplVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/IAeImplVisitor.java
+END
+IAeVisitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/IAeVisitable.java
+END
+AeRegisterLocationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeRegisterLocationVisitor.java
+END
+AeBaseRestoreVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeBaseRestoreVisitor.java
+END
+AeProcessSnapshotVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeProcessSnapshotVisitor.java
+END
+AeRestoreCompInfoVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeRestoreCompInfoVisitor.java
+END
+AeSaveImplStateVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeSaveImplStateVisitor.java
+END
+AeImplReverseTraversingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeImplReverseTraversingVisitor.java
+END
+AeTerminationStateUpgradeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeTerminationStateUpgradeVisitor.java
+END
+AeAbstractImplVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeAbstractImplVisitor.java
+END
+AeInScopeVariableFindingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeInScopeVariableFindingVisitor.java
+END
+AeImplTraversingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeImplTraversingVisitor.java
+END
+AeRestoreImplStateVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/AeRestoreImplStateVisitor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/visitors/package.html
+END

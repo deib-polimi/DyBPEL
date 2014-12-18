@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors
+END
+AeDefPartnerLinkTypeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefPartnerLinkTypeVisitor.java
+END
+AeWSBPELDefPathSegmentVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELDefPathSegmentVisitor.java
+END
+IAeExtensionAwareDefVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/IAeExtensionAwareDefVisitorFactory.java
+END
+AeImplicitVariableVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeImplicitVariableVisitor.java
+END
+AeAbstractDefPathSegmentVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeAbstractDefPathSegmentVisitor.java
+END
+IAeDefTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/IAeDefTraverser.java
+END
+AeBPWSDefPathSegmentVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeBPWSDefPathSegmentVisitor.java
+END
+AeWSBPELImplicitVariableVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELImplicitVariableVisitor.java
+END
+AeIsolatedScopeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeIsolatedScopeVisitor.java
+END
+AeChildScopesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeChildScopesVisitor.java
+END
+AeAbstractExpressionDefVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeAbstractExpressionDefVisitor.java
+END
+AeDefInlineInvokeScopeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefInlineInvokeScopeVisitor.java
+END
+AeDefOnEventVariableTypeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefOnEventVariableTypeVisitor.java
+END
+AeDefCorrelatedReceiveVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefCorrelatedReceiveVisitor.java
+END
+AeWSBPELAssignExtObjVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELAssignExtObjVisitor.java
+END
+AeDynamicInstancePathBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDynamicInstancePathBuilder.java
+END
+AeDefToBPWSImplVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefToBPWSImplVisitor.java
+END
+AeAmbigousCompensateScopeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeAmbigousCompensateScopeVisitor.java
+END
+AeCreateInstanceVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeCreateInstanceVisitor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/package.html
+END
+IAeDefVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/IAeDefVisitorFactory.java
+END
+AeWSBPELScopeTerminationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELScopeTerminationStrategy.java
+END
+AeWSBPELDefVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELDefVisitorFactory.java
+END
+AeImplementationTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeImplementationTraverser.java
+END
+AePartnerLinkValidationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AePartnerLinkValidationVisitor.java
+END
+AeDoXslTransformUriVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDoXslTransformUriVisitor.java
+END
+AeDefVariableTypeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefVariableTypeVisitor.java
+END
+AeChildScopeByNameVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeChildScopeByNameVisitor.java
+END
+AeDefPartnerLinkNameVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefPartnerLinkNameVisitor.java
+END
+AeWSBPELInlinePropertyAliasVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELInlinePropertyAliasVisitor.java
+END
+AeWSBPELImplementationTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELImplementationTraverser.java
+END
+AeDefOneWayVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefOneWayVisitor.java
+END
+AeBPWSDefVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeBPWSDefVisitorFactory.java
+END
+AeDefToImplVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefToImplVisitor.java
+END
+AeDefExtensionFinderVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefExtensionFinderVisitor.java
+END
+IAeDefMessagePartsMapVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/IAeDefMessagePartsMapVisitor.java
+END
+AeWSBPELAbstractProcessDefVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELAbstractProcessDefVisitorFactory.java
+END
+AeWSBPELDefMessagePartsMapVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELDefMessagePartsMapVisitor.java
+END
+AeDefCreateInvokeScopeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefCreateInvokeScopeVisitor.java
+END
+AeInlinePropertyAliasVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeInlinePropertyAliasVisitor.java
+END
+AeJoinVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeJoinVisitor.java
+END
+AeAbstractDefMessagePartsMapVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeAbstractDefMessagePartsMapVisitor.java
+END
+AeDefFindVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefFindVisitor.java
+END
+AeDefToWSBPELImplVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefToWSBPELImplVisitor.java
+END
+AeCreateInstanceMessageExchangeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeCreateInstanceMessageExchangeVisitor.java
+END
+AeBPWSMessageExchangeDefPathSegmentVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeBPWSMessageExchangeDefPathSegmentVisitor.java
+END
+AeWSBPELMessageExchangeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELMessageExchangeVisitor.java
+END
+AeDefEntryPointInitialVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefEntryPointInitialVisitor.java
+END
+AeBPWSDefMessagePartsMapVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeBPWSDefMessagePartsMapVisitor.java
+END
+AeDefEntryPointPropertiesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefEntryPointPropertiesVisitor.java
+END
+AeCheckStartActivityVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeCheckStartActivityVisitor.java
+END
+AeCreateInstanceOperationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeCreateInstanceOperationVisitor.java
+END
+AeDefTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefTraverser.java
+END
+AeCopyOperationStrategyVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeCopyOperationStrategyVisitor.java
+END
+AeBPWSScopeTerminationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeBPWSScopeTerminationStrategy.java
+END
+AeAbstractDefVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeAbstractDefVisitor.java
+END
+AeDefVisitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefVisitorFactory.java
+END
+AeMessageExchangeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeMessageExchangeVisitor.java
+END
+AeDefActivityInvokeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefActivityInvokeVisitor.java
+END
+AeDefVariableUsageVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeDefVariableUsageVisitor.java
+END
+AeAbstractSearchVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeAbstractSearchVisitor.java
+END
+IAeDefToImplVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/IAeDefToImplVisitor.java
+END
+AeNoOpAssignExtObjVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeNoOpAssignExtObjVisitor.java
+END
+IAeImplicitVariablesAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/IAeImplicitVariablesAdapter.java
+END
+AeAbstractEntryPointVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeAbstractEntryPointVisitor.java
+END
+AeScopeSnapshotOptimizationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeScopeSnapshotOptimizationVisitor.java
+END
+AeTraversalVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeTraversalVisitor.java
+END
+AeWSBPELDefVariableUsageVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/AeWSBPELDefVariableUsageVisitor.java
+END
+IAeDefVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/IAeDefVisitor.java
+END

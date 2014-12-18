@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord
+END
+AeNotifyCoordinatorsParticipantClosedEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeNotifyCoordinatorsParticipantClosedEntry.java
+END
+AeAbstractProtocolMessageEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeAbstractProtocolMessageEntry.java
+END
+AeCompensateCallbackEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeCompensateCallbackEntry.java
+END
+AeReleaseCompensationResourcesEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeReleaseCompensationResourcesEntry.java
+END
+AeAbstractCoordinationEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeAbstractCoordinationEntry.java
+END
+AeCancelSubProcessCompensationEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeCancelSubProcessCompensationEntry.java
+END
+AeCompensateSubprocessJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeCompensateSubprocessJournalEntry.java
+END
+AeCoordinationQueueMessageEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeCoordinationQueueMessageEntry.java
+END
+AeCancelProcessEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeCancelProcessEntry.java
+END
+AeCoordinatedActivityCompletedEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeCoordinatedActivityCompletedEntry.java
+END
+AeDeregisterCoordinationEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/coord/AeDeregisterCoordinationEntry.java
+END

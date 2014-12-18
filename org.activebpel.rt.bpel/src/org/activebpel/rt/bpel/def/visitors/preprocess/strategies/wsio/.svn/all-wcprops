@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/preprocess/strategies/wsio
+END
+AeMessageDataSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/preprocess/strategies/wsio/AeMessageDataSpec.java
+END
+IAeMessageDataStrategyMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/preprocess/strategies/wsio/IAeMessageDataStrategyMatcher.java
+END
+IAeMessageDataStrategyNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/preprocess/strategies/wsio/IAeMessageDataStrategyNames.java
+END
+AeBaseMessageDataStrategyMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/preprocess/strategies/wsio/AeBaseMessageDataStrategyMatcher.java
+END
+AeBPWSMessageDataStrategyMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/preprocess/strategies/wsio/AeBPWSMessageDataStrategyMatcher.java
+END
+AeMessageDataStrategyVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/preprocess/strategies/wsio/AeMessageDataStrategyVisitor.java
+END
+AeWSBPELMessageDataProducerStrategyMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/preprocess/strategies/wsio/AeWSBPELMessageDataProducerStrategyMatcher.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/visitors/preprocess/strategies/wsio/package.html
+END

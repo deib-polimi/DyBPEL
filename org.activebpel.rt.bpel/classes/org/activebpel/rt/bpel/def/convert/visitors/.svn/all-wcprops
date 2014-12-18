@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/convert/visitors
+END
+AeBPWSToWSBPELOnEventVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/convert/visitors/AeBPWSToWSBPELOnEventVisitor.java
+END
+AeBPWSToWSBPELExpressionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/convert/visitors/AeBPWSToWSBPELExpressionVisitor.java
+END
+AeBPWSToWSBPELCatchVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/convert/visitors/AeBPWSToWSBPELCatchVisitor.java
+END
+AeAbstractBPWSToWSBPELVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/convert/visitors/AeAbstractBPWSToWSBPELVisitor.java
+END
+AeBPWSToWSBPELCorrelationInitiateVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/convert/visitors/AeBPWSToWSBPELCorrelationInitiateVisitor.java
+END
+AeBPWSToWSBPELExtensionActivityVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/convert/visitors/AeBPWSToWSBPELExtensionActivityVisitor.java
+END
+AeBPWSToWSBPELOnAlarmVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/convert/visitors/AeBPWSToWSBPELOnAlarmVisitor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/convert/visitors/package.html
+END

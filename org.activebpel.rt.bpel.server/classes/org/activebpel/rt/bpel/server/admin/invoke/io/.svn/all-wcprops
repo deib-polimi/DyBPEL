@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/admin/invoke/io
+END
+AeGetProcessStateSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/admin/invoke/io/AeGetProcessStateSerializer.java
+END
+AeGetProcessDetailSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/admin/invoke/io/AeGetProcessDetailSerializer.java
+END
+AeProcessInstanceDetailSerializerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/admin/invoke/io/AeProcessInstanceDetailSerializerBase.java
+END
+AeEngineAdminMessageDeserializerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/admin/invoke/io/AeEngineAdminMessageDeserializerBase.java
+END
+IAeEngineAdminMessageIOConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/admin/invoke/io/IAeEngineAdminMessageIOConstants.java
+END
+AesProcessTypeDeserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/admin/invoke/io/AesProcessTypeDeserializer.java
+END
+AeEngineAdminMessageSerializerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/admin/invoke/io/AeEngineAdminMessageSerializerBase.java
+END

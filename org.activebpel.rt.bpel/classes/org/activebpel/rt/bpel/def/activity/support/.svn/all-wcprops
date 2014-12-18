@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support
+END
+AeFromPartsDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeFromPartsDef.java
+END
+AeOnMessageDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeOnMessageDef.java
+END
+AeForEachFinalDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeForEachFinalDef.java
+END
+AeSourcesDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeSourcesDef.java
+END
+AeConditionDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeConditionDef.java
+END
+AeOnAlarmDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeOnAlarmDef.java
+END
+AeRepeatEveryDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeRepeatEveryDef.java
+END
+AeUntilDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeUntilDef.java
+END
+AeLiteralDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeLiteralDef.java
+END
+AeFromDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeFromDef.java
+END
+AeQueryDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeQueryDef.java
+END
+IAeFromSpecExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/IAeFromSpecExtension.java
+END
+AeForEachBranchesDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeForEachBranchesDef.java
+END
+AeOnEventDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeOnEventDef.java
+END
+AeAssignCopyDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeAssignCopyDef.java
+END
+AeLinksDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeLinksDef.java
+END
+AeCorrelationDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeCorrelationDef.java
+END
+IAeSpecExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/IAeSpecExtension.java
+END
+AeToDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeToDef.java
+END
+IAeToSpecExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/IAeToSpecExtension.java
+END
+AeForEachStartDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeForEachStartDef.java
+END
+AeTargetDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeTargetDef.java
+END
+AeForDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeForDef.java
+END
+AeElseDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeElseDef.java
+END
+AeVarDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeVarDef.java
+END
+IAeQueryParentDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/IAeQueryParentDef.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/package.html
+END
+AeExpressionBaseDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeExpressionBaseDef.java
+END
+AeFromPartDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeFromPartDef.java
+END
+AeToPartsDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeToPartsDef.java
+END
+AeLinkDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeLinkDef.java
+END
+AeIfDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeIfDef.java
+END
+AeSourceDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeSourceDef.java
+END
+AeTransitionConditionDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeTransitionConditionDef.java
+END
+AeJoinConditionDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeJoinConditionDef.java
+END
+AeElseIfDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeElseIfDef.java
+END
+AeExtensibleAssignDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeExtensibleAssignDef.java
+END
+AeForEachCompletionConditionDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeForEachCompletionConditionDef.java
+END
+AeToPartDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeToPartDef.java
+END
+AeTargetsDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/activity/support/AeTargetsDef.java
+END

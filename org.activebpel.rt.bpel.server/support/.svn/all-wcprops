@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/support
+END
+ActiveBpelAdmin.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/support/ActiveBpelAdmin.wsdl
+END
+alert.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/support/alert.wsdl
+END
+aevalidate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/support/aevalidate.bat
+END
+aevalidate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/support/aevalidate.sh
+END
+genAdminService.bat
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/support/genAdminService.bat
+END
+retryCheck.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/support/retryCheck.wsdl
+END
+genEngineAdminService.bat
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/support/genEngineAdminService.bat
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/receive
+END
+AeExtendedMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/receive/AeExtendedMessageContext.java
+END
+AeBPELReceiveHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/receive/AeBPELReceiveHandlerFactory.java
+END
+AeDelegatingReceiveHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/receive/AeDelegatingReceiveHandlerFactory.java
+END
+IAeBPELReceiveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/receive/IAeBPELReceiveHandler.java
+END
+AeSOAPReceiveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/receive/AeSOAPReceiveHandler.java
+END
+IAeExtendedMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/receive/IAeExtendedMessageContext.java
+END
+AeAbstractReceiveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/receive/AeAbstractReceiveHandler.java
+END
+AeDefaultReceiveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/receive/AeDefaultReceiveHandler.java
+END

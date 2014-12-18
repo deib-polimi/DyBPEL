@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery
+END
+AeRecoveredItemsSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeRecoveredItemsSet.java
+END
+IAeRecoveryEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/IAeRecoveryEngine.java
+END
+AeInvokeRecoveryEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeInvokeRecoveryEvaluator.java
+END
+AeRecoveryQueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeRecoveryQueueManager.java
+END
+IAeRecoveryProcessManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/IAeRecoveryProcessManager.java
+END
+AeRecoveryLockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeRecoveryLockManager.java
+END
+AeRecoveryCoordinationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeRecoveryCoordinationManager.java
+END
+AeQueuedExecutingLocationIdsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeQueuedExecutingLocationIdsCollector.java
+END
+IAeRecoveredItemsSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/IAeRecoveredItemsSet.java
+END
+AeRecoveryConflictingRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeRecoveryConflictingRequestException.java
+END
+IAeRecoveryQueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/IAeRecoveryQueueManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/package.html
+END
+IAeRecoveryCoordinationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/IAeRecoveryCoordinationManager.java
+END
+AeRecoveryEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeRecoveryEngineFactory.java
+END
+IAeRecoveryAwareManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/IAeRecoveryAwareManager.java
+END
+AeRecoveryEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeRecoveryEngine.java
+END
+AeRecoveryProcessManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeRecoveryProcessManager.java
+END
+AeQueuedLocationIdsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/AeQueuedLocationIdsCollector.java
+END

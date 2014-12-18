@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope
+END
+AeMessageExchangeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeMessageExchangeValidator.java
+END
+AeTerminationHandlerValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeTerminationHandlerValidator.java
+END
+AeBPWSFaultHandlersValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeBPWSFaultHandlersValidator.java
+END
+AePartnerLinkValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AePartnerLinkValidator.java
+END
+AeRepeatEveryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeRepeatEveryValidator.java
+END
+AeFaultHandlersValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeFaultHandlersValidator.java
+END
+AeCorrelationSetValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeCorrelationSetValidator.java
+END
+AeCompensationHandlerValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeCompensationHandlerValidator.java
+END
+AeWSBPELCatchValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeWSBPELCatchValidator.java
+END
+AeEventHandlersValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeEventHandlersValidator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/package.html
+END
+AeWSBPELTerminationHandlerValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeWSBPELTerminationHandlerValidator.java
+END
+AeWSBPELPartnerLinkValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeWSBPELPartnerLinkValidator.java
+END
+AeVariablesValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeVariablesValidator.java
+END
+AeWSBPELFaultHandlersValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeWSBPELFaultHandlersValidator.java
+END
+AeMessageExchangesValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeMessageExchangesValidator.java
+END
+AeWSBPELCompensationHandlerValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeWSBPELCompensationHandlerValidator.java
+END
+AeCatchAllValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeCatchAllValidator.java
+END
+AePartnerLinksValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AePartnerLinksValidator.java
+END
+AeBaseCatchValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeBaseCatchValidator.java
+END
+AeOnEventValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeOnEventValidator.java
+END
+AeBPWSCatchValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeBPWSCatchValidator.java
+END
+AeCorrelationSetsValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/activity/scope/AeCorrelationSetsValidator.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/writers/def
+END
+AeWSBPELWriterVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/writers/def/AeWSBPELWriterVisitor.java
+END
+AeDispatchWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/writers/def/AeDispatchWriter.java
+END
+AeWSBPELAbstractProcessWriterVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/writers/def/AeWSBPELAbstractProcessWriterVisitor.java
+END
+AeWriterVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/writers/def/AeWriterVisitor.java
+END
+AeBPWSWriterVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/writers/def/AeBPWSWriterVisitor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/writers/def/package.html
+END

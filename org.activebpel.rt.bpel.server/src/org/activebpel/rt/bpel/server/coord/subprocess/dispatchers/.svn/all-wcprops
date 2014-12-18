@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/coord/subprocess/dispatchers
+END
+AeCompensationCompleted.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/coord/subprocess/dispatchers/AeCompensationCompleted.java
+END
+AeCancelSubprocessCompensation.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/coord/subprocess/dispatchers/AeCancelSubprocessCompensation.java
+END
+AeDurableSpCoordinationDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/coord/subprocess/dispatchers/AeDurableSpCoordinationDispatcher.java
+END
+AeSubprocessCoordinationEnded.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/coord/subprocess/dispatchers/AeSubprocessCoordinationEnded.java
+END
+AeCancelProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/coord/subprocess/dispatchers/AeCancelProcess.java
+END
+AeCoordinationCompleted.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/coord/subprocess/dispatchers/AeCoordinationCompleted.java
+END
+AeDeregisterCoordination.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/coord/subprocess/dispatchers/AeDeregisterCoordination.java
+END
+AeCompensateSubprocess.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/coord/subprocess/dispatchers/AeCompensateSubprocess.java
+END

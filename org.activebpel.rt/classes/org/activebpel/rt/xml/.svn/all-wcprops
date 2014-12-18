@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml
+END
+AeXIncludeAwareXMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/AeXIncludeAwareXMLParser.java
+END
+AeElementBasedNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/AeElementBasedNamespaceContext.java
+END
+IAeNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/IAeNamespaceContext.java
+END
+AeXMLParserSchemaHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/AeXMLParserSchemaHandler.java
+END
+AeXMLDeserializerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/AeXMLDeserializerBase.java
+END
+AeXMLParserDefaultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/AeXMLParserDefaultHandler.java
+END
+IAeXercesFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/IAeXercesFeatures.java
+END
+AeXMLToSimpleString.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/AeXMLToSimpleString.java
+END
+IAeMutableNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/IAeMutableNamespaceContext.java
+END
+AeXMLParserErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/AeXMLParserErrorHandler.java
+END
+AeXMLSerializerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/AeXMLSerializerBase.java
+END
+AeXMLParserBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/AeXMLParserBase.java
+END
+XMLSchema-full.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/XMLSchema-full.xsd
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/package.html
+END

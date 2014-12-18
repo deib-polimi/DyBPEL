@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity
+END
+AeActivityRethrowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityRethrowImpl.java
+END
+AeActivityInvokeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityInvokeImpl.java
+END
+IAeActivityLifeCycleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeActivityLifeCycleContext.java
+END
+AeActivityChildExtensionActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityChildExtensionActivityImpl.java
+END
+AeActivityCompensateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityCompensateImpl.java
+END
+AeActivityEmptyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityEmptyImpl.java
+END
+AeActivityIfImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityIfImpl.java
+END
+AeDynamicScopeCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeDynamicScopeCreator.java
+END
+AeDelegatingFunctionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeDelegatingFunctionFactory.java
+END
+IAeVariableContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeVariableContainer.java
+END
+AeActivityWaitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityWaitImpl.java
+END
+IAeEventParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeEventParent.java
+END
+IAeMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeMessageDispatcher.java
+END
+AeActivityFlowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityFlowImpl.java
+END
+IAeExtensionLifecycleAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeExtensionLifecycleAdapter.java
+END
+AeActivityWhileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityWhileImpl.java
+END
+IAeWSIOActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeWSIOActivity.java
+END
+AeActivityScopeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityScopeImpl.java
+END
+AeMultiStartHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeMultiStartHelper.java
+END
+IAeMessageValidationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeMessageValidationAdapter.java
+END
+AeLoopControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeLoopControl.java
+END
+IAeImplAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeImplAdapter.java
+END
+AeActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityImpl.java
+END
+AeWSIOActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeWSIOActivityImpl.java
+END
+AeActivityReceiveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityReceiveImpl.java
+END
+AeActivityLifeCycleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityLifeCycleContext.java
+END
+AeAbstractExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeAbstractExtensionImpl.java
+END
+AeActivityBreakImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityBreakImpl.java
+END
+AeActivityContinueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityContinueImpl.java
+END
+AeActivityForEachParallelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityForEachParallelImpl.java
+END
+IAeLoopControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeLoopControl.java
+END
+AeActivityPickImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityPickImpl.java
+END
+AeLoopActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeLoopActivity.java
+END
+IAeActivityLifeCycleAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeActivityLifeCycleAdapter.java
+END
+AeActivityCompensateScopeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityCompensateScopeImpl.java
+END
+AeLocationPathImplVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeLocationPathImplVisitor.java
+END
+AeActivityReplyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityReplyImpl.java
+END
+AeActivityRepeatUntilImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityRepeatUntilImpl.java
+END
+AeAbstractExtensionActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeAbstractExtensionActivityImpl.java
+END
+IAeMessageReceiverActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeMessageReceiverActivity.java
+END
+AeActivityAssignWSBPELImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityAssignWSBPELImpl.java
+END
+AeActivityThrowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityThrowImpl.java
+END
+AeActivityForEachImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityForEachImpl.java
+END
+IAeLifecycleAdapterConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeLifecycleAdapterConstants.java
+END
+AeActivitySequenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivitySequenceImpl.java
+END
+AeActivityOnEventScopeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityOnEventScopeImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/package.html
+END
+AeExtensionNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeExtensionNotifier.java
+END
+IAeMessageProducerParentAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeMessageProducerParentAdapter.java
+END
+AeImplLocationPathBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeImplLocationPathBuilder.java
+END
+IAeScopeTerminationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeScopeTerminationStrategy.java
+END
+AeActivitySuspendImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivitySuspendImpl.java
+END
+IAeCopyFromParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeCopyFromParent.java
+END
+AeActivityAssignImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityAssignImpl.java
+END
+IAeMessageConsumerParentAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/IAeMessageConsumerParentAdapter.java
+END
+AeActivityTerminateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityTerminateImpl.java
+END
+AeExtensionActivityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeExtensionActivityUtil.java
+END
+AeActivityValidateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/activity/AeActivityValidateImpl.java
+END

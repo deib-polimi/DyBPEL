@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def
+END
+AeBPELWSDLExtensionIOFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeBPELWSDLExtensionIOFactory.java
+END
+AeWSBPELPropertyIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeWSBPELPropertyIO.java
+END
+AeBindingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeBindingUtils.java
+END
+AeWSDLExtensionLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeWSDLExtensionLoader.java
+END
+IAeProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/IAeProperty.java
+END
+AeWSDLExtensionIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeWSDLExtensionIO.java
+END
+IAePortType.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/IAePortType.java
+END
+AeWSBPELPartnerLinkTypeIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeWSBPELPartnerLinkTypeIO.java
+END
+IAeBPELWSDLExtensionIOFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/IAeBPELWSDLExtensionIOFactory.java
+END
+AeStandardSchemaResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeStandardSchemaResolver.java
+END
+AeWSBPELPropertyAliasIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeWSBPELPropertyAliasIO.java
+END
+IAePartnerLinkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/IAePartnerLinkType.java
+END
+AePropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AePropertyImpl.java
+END
+IAePropertyAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/IAePropertyAlias.java
+END
+AePortTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AePortTypeImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/package.html
+END
+IAeRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/IAeRole.java
+END
+AePropertyIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AePropertyIO.java
+END
+AeBPELExtendedWSDLDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeBPELExtendedWSDLDef.java
+END
+IAeStandardSchemaResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/IAeStandardSchemaResolver.java
+END
+AePartnerLinkTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AePartnerLinkTypeImpl.java
+END
+IAeBPELExtendedWSDLConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/IAeBPELExtendedWSDLConst.java
+END
+AeFaultMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeFaultMatcher.java
+END
+AeWSDLPrefixes.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeWSDLPrefixes.java
+END
+AePropertyAliasImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AePropertyAliasImpl.java
+END
+AeRoleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeRoleImpl.java
+END
+AePartnerLinkTypeIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AePartnerLinkTypeIO.java
+END
+AePropertyAliasIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AePropertyAliasIO.java
+END
+AeOperationSignatureMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeOperationSignatureMatcher.java
+END
+AeMessageMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/AeMessageMatcher.java
+END

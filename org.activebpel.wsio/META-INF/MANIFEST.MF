@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.activebpel.wsio
+Bundle-Version: 4.1.2
+Bundle-ClassPath: classes, 
+ ../../lib/qname.jar
+Bundle-Activator: org.eclipse.core.internal.compatibility.PluginActivator
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.core.runtime;bundle-version="2.1",
+ org.eclipse.core.runtime.compatibility
+Export-Package: org.activebpel.wsio,
+ org.activebpel.wsio.invoke,
+ org.activebpel.wsio.receive

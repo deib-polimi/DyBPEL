@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/message
+END
+AeMessagePartTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/message/AeMessagePartTypeInfo.java
+END
+AeMessagePartsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/message/AeMessagePartsMap.java
+END
+AeMessageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/message/AeMessageData.java
+END
+AeEmptyMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/message/AeEmptyMessage.java
+END
+AeMessageDataValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/message/AeMessageDataValidator.java
+END
+IAeMessageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/message/IAeMessageData.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/message/package.html
+END

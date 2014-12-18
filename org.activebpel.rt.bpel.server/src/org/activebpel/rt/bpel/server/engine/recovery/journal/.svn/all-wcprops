@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal
+END
+AeEngineFailureJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeEngineFailureJournalEntry.java
+END
+IAeJournalEntryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/IAeJournalEntryFactory.java
+END
+AeJournalEntryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeJournalEntryAdapter.java
+END
+AeRestartProcessJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeRestartProcessJournalEntry.java
+END
+AeSentReplyJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeSentReplyJournalEntry.java
+END
+AeInvokeDataJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeInvokeDataJournalEntry.java
+END
+AeInvokeFaultJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeInvokeFaultJournalEntry.java
+END
+IAeJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/IAeJournalEntry.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/package.html
+END
+AeAlarmJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeAlarmJournalEntry.java
+END
+AeMissingStorageDocumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeMissingStorageDocumentException.java
+END
+AeInvokePendingJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeInvokePendingJournalEntry.java
+END
+AeInboundReceiveJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeInboundReceiveJournalEntry.java
+END
+AeAbstractJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeAbstractJournalEntry.java
+END
+AeJournalEntryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeJournalEntryFactory.java
+END
+AeInvokeTransmittedJournalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/journal/AeInvokeTransmittedJournalEntry.java
+END

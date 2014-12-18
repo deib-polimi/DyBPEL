@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/castor
+END
+AeInputSourceURILocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/castor/AeInputSourceURILocation.java
+END
+AeSchemaParserUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/castor/AeSchemaParserUtil.java
+END
+AeWSDLSchemaResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/castor/AeWSDLSchemaResolver.java
+END
+AeURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/castor/AeURIResolver.java
+END
+AeWSDLSchemaURILocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/castor/AeWSDLSchemaURILocation.java
+END
+AeURILocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/castor/AeURILocation.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/castor/package.html
+END

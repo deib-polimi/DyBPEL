@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/.project
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/.cvsignore
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/plugin.xml
+END
+ae.build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/ae.build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/build.xml
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry
+END
+AeWSBPELAbstractProcessDefReaderRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/AeWSBPELAbstractProcessDefReaderRegistry.java
+END
+AeAbstractBpelWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/AeAbstractBpelWriterRegistry.java
+END
+AeBPWSDefWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/AeBPWSDefWriterRegistry.java
+END
+AeEngineConfigExtensionRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/AeEngineConfigExtensionRegistry.java
+END
+AeWSBPELDefWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/AeWSBPELDefWriterRegistry.java
+END
+AeAbstractBpelReaderRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/AeAbstractBpelReaderRegistry.java
+END
+AeWSBPELAbstractProcessDefWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/AeWSBPELAbstractProcessDefWriterRegistry.java
+END
+AeBPWSDefReaderRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/AeBPWSDefReaderRegistry.java
+END
+AeWSBPELDefReaderRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/AeWSBPELDefReaderRegistry.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/io/registry/package.html
+END

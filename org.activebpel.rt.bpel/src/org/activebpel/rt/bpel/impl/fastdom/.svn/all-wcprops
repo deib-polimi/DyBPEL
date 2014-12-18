@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom
+END
+IAeVisitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/IAeVisitable.java
+END
+AeFastDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/AeFastDocument.java
+END
+AeForeignNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/AeForeignNode.java
+END
+IAeFastParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/IAeFastParent.java
+END
+AeFastAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/AeFastAttribute.java
+END
+AeIllegalAddException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/AeIllegalAddException.java
+END
+AeFastText.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/AeFastText.java
+END
+AeFastNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/AeFastNode.java
+END
+AeXMLFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/AeXMLFormatter.java
+END
+AeDocumentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/AeDocumentBuilder.java
+END
+AeFastElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/AeFastElement.java
+END
+IAeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/IAeVisitor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/impl/fastdom/package.html
+END

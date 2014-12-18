@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/io/writers
+END
+IAeDefWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/io/writers/IAeDefWriterFactory.java
+END
+IAeDefWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/io/writers/IAeDefWriterRegistry.java
+END
+AeAbstractDefWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/io/writers/AeAbstractDefWriter.java
+END
+AeBaseDefWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/io/writers/AeBaseDefWriterRegistry.java
+END
+AeDelegatingDefWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/io/writers/AeDelegatingDefWriter.java
+END
+AeMashupDefWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/io/writers/AeMashupDefWriterRegistry.java
+END
+AeBaseXmlDefElementCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/io/writers/AeBaseXmlDefElementCreator.java
+END
+IAeDefWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/io/writers/IAeDefWriter.java
+END

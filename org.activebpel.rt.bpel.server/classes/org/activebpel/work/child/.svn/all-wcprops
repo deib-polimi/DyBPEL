@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/work/child
+END
+AeChildWorkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/work/child/AeChildWorkManager.java
+END
+IAeChildWorkCompletedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/work/child/IAeChildWorkCompletedListener.java
+END
+AeChildWorkItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/work/child/AeChildWorkItem.java
+END
+AeConfigAwareChildWorkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/work/child/AeConfigAwareChildWorkManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/work/child/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/transaction
+END
+IAeTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/transaction/IAeTransactionManager.java
+END
+IAeTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/transaction/IAeTransaction.java
+END
+AeTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/transaction/AeTransactionManager.java
+END
+IAeTransactionManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/transaction/IAeTransactionManagerFactory.java
+END
+AeNoopTransactionManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/transaction/AeNoopTransactionManagerFactory.java
+END
+AeTransactionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/transaction/AeTransactionException.java
+END

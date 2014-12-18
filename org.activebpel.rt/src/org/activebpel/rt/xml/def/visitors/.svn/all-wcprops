@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors
+END
+AeBaseXmlDefVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors/AeBaseXmlDefVisitor.java
+END
+AeDefAssignParentVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors/AeDefAssignParentVisitor.java
+END
+IAeBaseXmlDefTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors/IAeBaseXmlDefTraverser.java
+END
+IAeBaseXmlDefVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors/IAeBaseXmlDefVisitor.java
+END
+AeBaseXmlDefSegmentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors/AeBaseXmlDefSegmentBuilder.java
+END
+AeTraversingXmlDefVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors/AeTraversingXmlDefVisitor.java
+END
+IAeDefPathVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors/IAeDefPathVisitor.java
+END
+AeLocationPathVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors/AeLocationPathVisitor.java
+END
+AeBaseXmlDefTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/visitors/AeBaseXmlDefTraverser.java
+END

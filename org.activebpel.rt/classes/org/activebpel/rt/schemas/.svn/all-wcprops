@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas
+END
+ws-addressing-2004-08.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/ws-addressing-2004-08.xsd
+END
+ws-addressing-2005-08.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/ws-addressing-2005-08.xsd
+END
+soap11.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/soap11.xsd
+END
+standardSchemas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/standardSchemas.xml
+END
+ws-bpel_serviceref.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/ws-bpel_serviceref.xsd
+END
+soapEnc.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/soapEnc.xsd
+END
+wsdl11.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/wsdl11.xsd
+END
+ws-addressing-2003-03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/ws-addressing-2003-03.xsd
+END
+AeStandardSchemas.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/AeStandardSchemas.java
+END
+ws-addressing-2004-03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/ws-addressing-2004-03.xsd
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/xml.xsd
+END
+XMLSchema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/XMLSchema.xsd
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/schemas/package.html
+END

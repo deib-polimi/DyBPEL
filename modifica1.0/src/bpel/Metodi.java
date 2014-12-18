@@ -1,0 +1,6 @@
+package bpel;
+
+public enum Metodi {
+	ADDACTIVITY,REMOVEACTIVITY,ADDVARIABLE,REMOVEVARIABLE
+
+}

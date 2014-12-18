@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/policy
+END
+AePolicyRefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/policy/AePolicyRefImpl.java
+END
+AePolicyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/policy/AePolicyImpl.java
+END
+AePolicyRefIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/policy/AePolicyRefIO.java
+END
+AePolicyIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/policy/AePolicyIO.java
+END
+IAePolicyReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/policy/IAePolicyReference.java
+END
+IAePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/def/policy/IAePolicy.java
+END

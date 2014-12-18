@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl
+END
+AeWSDLLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/AeWSDLLocator.java
+END
+IAeWSDLProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/IAeWSDLProvider.java
+END
+AeWSDLFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/AeWSDLFactory.java
+END
+IAeContextWSDLProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/IAeContextWSDLProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/wsdl/package.html
+END

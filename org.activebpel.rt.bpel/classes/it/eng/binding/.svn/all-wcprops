@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding
+END
+IAeBindingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/IAeBindingRule.java
+END
+IAeAbstractBindingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/IAeAbstractBindingRule.java
+END
+IBinderInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/IBinderInvocation.java
+END
+IBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/IBinder.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/impl
+END
+Binder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/impl/Binder.java
+END
+EngInvokeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/impl/EngInvokeHandler.java
+END
+AeBindingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/impl/AeBindingRule.java
+END
+ProcessPartnerRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/impl/ProcessPartnerRole.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/it/eng/binding/impl/Util.java
+END

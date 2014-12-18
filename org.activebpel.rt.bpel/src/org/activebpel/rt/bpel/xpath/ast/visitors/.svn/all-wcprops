@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/xpath/ast/visitors
+END
+AeXPathDebugSerializeNodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/xpath/ast/visitors/AeXPathDebugSerializeNodeVisitor.java
+END
+AeAbstractXPathNodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/xpath/ast/visitors/AeAbstractXPathNodeVisitor.java
+END
+AeXPathSerializeNodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/xpath/ast/visitors/AeXPathSerializeNodeVisitor.java
+END
+AeAbstractTraversingXPathNodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/xpath/ast/visitors/AeAbstractTraversingXPathNodeVisitor.java
+END

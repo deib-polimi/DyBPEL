@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xquery
+END
+AeXQueryStatementRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xquery/AeXQueryStatementRegistry.java
+END
+xqueryStatements.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xquery/xqueryStatements.xsd
+END
+AeXQueryStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xquery/AeXQueryStatement.java
+END
+AeXQueryStatementCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xquery/AeXQueryStatementCriteria.java
+END
+AeXQueryStatementParamFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xquery/AeXQueryStatementParamFormatter.java
+END

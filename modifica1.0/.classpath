@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.5.0_22">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v5.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME"/>
+	<classpathentry kind="var" path="XmlBean"/>
+	<classpathentry kind="var" path="versionManager/wsdlschema.jar"/>
+	<classpathentry kind="var" path="versionManager/bpelschema.jar"/>
+	<classpathentry kind="var" path="versionManager/pdd.jar"/>
+	<classpathentry kind="var" path="XmlBean/jsr173_1.0_api.jar"/>
+	<classpathentry kind="var" path="XmlBean/resolver.jar"/>
+	<classpathentry kind="var" path="XmlBean/saxon8-dom.jar"/>
+	<classpathentry kind="var" path="XmlBean/saxon8.jar"/>
+	<classpathentry kind="var" path="XmlBean/xbean_xpath.jar"/>
+	<classpathentry kind="var" path="XmlBean/xbean.jar"/>
+	<classpathentry kind="var" path="XmlBean/xmlbeans-qname.jar"/>
+	<classpathentry kind="var" path="XmlBean/xmlpublic.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

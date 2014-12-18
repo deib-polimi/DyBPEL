@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers
+END
+AeSQLProcessInstanceResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeSQLProcessInstanceResultSetHandler.java
+END
+AeSQLProcessListResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeSQLProcessListResultSetHandler.java
+END
+AeMessageReceiverListHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeMessageReceiverListHandler.java
+END
+AeSQLCoordinatingListResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeSQLCoordinatingListResultSetHandler.java
+END
+AeJournalEntriesLocationIdsResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeJournalEntriesLocationIdsResultSetHandler.java
+END
+AeSQLProcessIdsResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeSQLProcessIdsResultSetHandler.java
+END
+AeMessageReceiverHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeMessageReceiverHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/package.html
+END
+AeSQLCoordinatingResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeSQLCoordinatingResultSetHandler.java
+END
+AeAlarmListQueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeAlarmListQueryHandler.java
+END
+AeJournalEntriesResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeJournalEntriesResultSetHandler.java
+END
+AeTransmissionTrackerResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeTransmissionTrackerResultSetHandler.java
+END
+AeURNMappingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeURNMappingHandler.java
+END
+AeCoordinationDetailListResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeCoordinationDetailListResultSetHandler.java
+END
+AeAttachmentItemResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeAttachmentItemResultSetHandler.java
+END
+AeAlarmListHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeAlarmListHandler.java
+END
+AeLocationVersionResultSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/storage/sql/handlers/AeLocationVersionResultSetHandler.java
+END

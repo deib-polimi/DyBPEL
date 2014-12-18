@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/recovered/coord
+END
+AeAbstractRecoveredCoordinationItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/recovered/coord/AeAbstractRecoveredCoordinationItem.java
+END
+AeRecoveredCompensateItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/recovered/coord/AeRecoveredCompensateItem.java
+END
+AeRecoveredCancelItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/recovered/coord/AeRecoveredCancelItem.java
+END
+AeRecoveredCompensateOrCancelItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/sla_at_soi/!svn/ver/9777/project/Software/Y2/DOE/org.activebpel.rt.bpel.server/src/org/activebpel/rt/bpel/server/engine/recovery/recovered/coord/AeRecoveredCompensateOrCancelItem.java
+END

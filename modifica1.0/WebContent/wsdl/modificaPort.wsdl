@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<definitions xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:lns="http://adapatations/adaptationService.wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsd1="http://sample/wsdl/bpelServer.wsdl" targetNamespace="http://adapatations/adaptationService.wsdl">
+
+ <!-- definizione di tipi complessi!--> 
+   <types>
+    <xsd:schema targetNamespace="http://sample/wsdl/bpelServer.wsdl">
+	<xsd:complexType name="ArrayOfString">
+		<xsd:sequence>
+			<xsd:element maxOccurs="unbounded" minOccurs="0" name="NewElement" type="xsd:string"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	</xsd:schema>
+  </types>
+   
+	<message name="richiestaModifica">
+	  <part name="nomeProcesso" type="xsd:string"/>
+	  <part name="operazioniArray" type="xsd1:ArrayOfString"/>
+      <part name="attributiArray" type="xsd1:ArrayOfString"/>
+	</message>
+   
+	<message name="ripostaModifica">
+	  <part name="tipo" type="xsd:string"/>
+	</message>
+ 
+	<portType name="modificaPT">
+		<operation name="modificaOP">
+			<input message="lns:richiestaModifica"/>
+			<output message="lns:ripostaModifica"/> 
+		</operation>
+	</portType>
+   
+   <binding name="modificaBinding" type="lns:modificaPT">
+      <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+      <operation name="modificaOP">
+      <soap:operation soapAction="" style="rpc"/>
+        <input>
+			<soap:body encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" use="encoded"/>
+        </input>
+        <output>
+			<soap:body encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" use="encoded"/>
+        </output>  
+      </operation>
+   </binding>
+   
+   <service name="modifica">
+      <port binding="lns:modificaBinding" name="modificaPort">
+		<soap:address location="http://localhost:8080/modifica1.0/services/modificaPort"/>
+      </port>
+   </service>
+   
+</definitions>

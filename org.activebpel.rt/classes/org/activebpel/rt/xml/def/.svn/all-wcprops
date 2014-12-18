@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def
+END
+IAeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/IAeAdapter.java
+END
+IAePathSegmentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/IAePathSegmentBuilder.java
+END
+IAeExtensionDefHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/IAeExtensionDefHolder.java
+END
+IAeExtensionObjectParentDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/IAeExtensionObjectParentDef.java
+END
+AeExtensionElementDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/AeExtensionElementDef.java
+END
+AeBaseXmlDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/AeBaseXmlDef.java
+END
+AeBaseDefNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/AeBaseDefNamespaceContext.java
+END
+IAeNamedDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/IAeNamedDef.java
+END
+IAeExtensionObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/IAeExtensionObject.java
+END
+IAeExtensionDefUnderstoodAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/IAeExtensionDefUnderstoodAdapter.java
+END
+AeXmlDefUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/AeXmlDefUtil.java
+END
+AeExtensionAttributeDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/AeExtensionAttributeDef.java
+END
+IAeBaseXmlDefConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/IAeBaseXmlDefConstants.java
+END
+IAeGetBaseXmlDefAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/IAeGetBaseXmlDefAdapter.java
+END
+AeDocumentationDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sla_at_soi/!svn/ver/9738/project/Software/Y2/DOE/org.activebpel.rt/src/org/activebpel/rt/xml/def/AeDocumentationDef.java
+END

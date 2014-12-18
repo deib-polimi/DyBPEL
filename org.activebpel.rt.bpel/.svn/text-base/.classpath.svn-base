@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="/org.activebpel.rt"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/org.activebpel.wsio"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Toplink-LIB"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/activeBPEL-LIB"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ENG_SWS-LIB"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PMI-LIB"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

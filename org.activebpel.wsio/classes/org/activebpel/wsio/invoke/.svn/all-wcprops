@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/invoke
+END
+AeInvokePrepareException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/invoke/AeInvokePrepareException.java
+END
+AeInvokeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/invoke/AeInvokeResponse.java
+END
+IAeTwoPhaseInvokeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/invoke/IAeTwoPhaseInvokeHandler.java
+END
+IAeInvokeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/invoke/IAeInvokeHandler.java
+END
+IAeTransmission.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/invoke/IAeTransmission.java
+END
+AeNullInvokeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/invoke/AeNullInvokeHandler.java
+END
+IAeInvoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/invoke/IAeInvoke.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/invoke/package.html
+END

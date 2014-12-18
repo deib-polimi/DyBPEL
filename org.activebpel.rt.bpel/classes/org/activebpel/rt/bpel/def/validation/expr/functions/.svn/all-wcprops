@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions
+END
+AeGetProcessNameFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetProcessNameFunctionValidator.java
+END
+AeGetVariableDataFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetVariableDataFunctionValidator.java
+END
+AeRemoveAllAttachmentsFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeRemoveAllAttachmentsFunctionValidator.java
+END
+AeGetAttachmentSizeFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetAttachmentSizeFunctionValidator.java
+END
+AeCopyAttachmentFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeCopyAttachmentFunctionValidator.java
+END
+AeReplaceAttachmentFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeReplaceAttachmentFunctionValidator.java
+END
+AeDoXslTransformFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeDoXslTransformFunctionValidator.java
+END
+AeGetAttachmentTypeFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetAttachmentTypeFunctionValidator.java
+END
+AeGetVariablePropertyFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetVariablePropertyFunctionValidator.java
+END
+AeGetProcessIdFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetProcessIdFunctionValidator.java
+END
+AeGetAttachmentPropertyFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetAttachmentPropertyFunctionValidator.java
+END
+AeCopyAllAttachmentsFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeCopyAllAttachmentsFunctionValidator.java
+END
+AeAbstractActiveBpelExtensionFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeAbstractActiveBpelExtensionFunctionValidator.java
+END
+AeBPWSFunctionUsedInWSBPELValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeBPWSFunctionUsedInWSBPELValidator.java
+END
+AeWSBPELFunctionUsedInBPWSValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeWSBPELFunctionUsedInBPWSValidator.java
+END
+AeGetLinkStatusFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetLinkStatusFunctionValidator.java
+END
+AeGetAttachmentCountFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetAttachmentCountFunctionValidator.java
+END
+AeBase64EncodeFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeBase64EncodeFunctionValidator.java
+END
+AeDelegatingFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeDelegatingFunctionValidator.java
+END
+AeAbstractFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeAbstractFunctionValidator.java
+END
+AeResolveURNFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeResolveURNFunctionValidator.java
+END
+AeRemoveAttachmentFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeRemoveAttachmentFunctionValidator.java
+END
+AeFunctionValidatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeFunctionValidatorFactory.java
+END
+AeCreateAttachmentFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeCreateAttachmentFunctionValidator.java
+END
+AeGetMyRolePropertyFunctionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sla_at_soi/!svn/ver/9742/project/Software/Y2/DOE/org.activebpel.rt.bpel/src/org/activebpel/rt/bpel/def/validation/expr/functions/AeGetMyRolePropertyFunctionValidator.java
+END

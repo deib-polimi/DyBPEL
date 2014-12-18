@@ -1,0 +1,621 @@
+package org.activebpel.rt.bpel.impl.instrumentation;
+
+
+import it.polimi.data.DataWorkflow;
+import it.polimi.database.BPIDatabase;
+import it.polimi.database.DerbyBPIDatabase;
+import it.polimi.deploy.HotDeploy;
+import it.polimi.pubsubmanager.PubSubProxy;
+
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+
+import org.activebpel.rt.bpel.AeBusinessProcessException;
+import org.activebpel.rt.bpel.IAeVariable;
+import org.activebpel.rt.bpel.def.activity.AeActivityInvokeDef;
+import org.activebpel.rt.bpel.def.activity.AeActivityReceiveDef;
+import org.activebpel.rt.bpel.def.activity.AeActivityReplyDef;
+import org.activebpel.rt.bpel.impl.AeBusinessProcess;
+import org.activebpel.rt.bpel.impl.AeBusinessProcessEngine;
+import org.activebpel.rt.bpel.impl.AeUninitializedVariableException;
+import org.activebpel.rt.bpel.impl.activity.AeActivityImpl;
+import org.activebpel.rt.bpel.impl.activity.AeActivityInvokeImpl;
+import org.activebpel.rt.bpel.impl.activity.AeActivityReceiveImpl;
+import org.activebpel.rt.bpel.impl.activity.AeActivityReplyImpl;
+import org.activebpel.rt.bpel.impl.storage.IAeProcessSnapshot;
+import org.activebpel.rt.message.IAeMessageData;
+import org.slasoi.common.messaging.MessagingException;
+import org.slasoi.common.messaging.Setting;
+import org.slasoi.common.messaging.Settings;
+import org.slasoi.common.messaging.pubsub.Channel;
+import org.slasoi.common.messaging.pubsub.PubSubFactory;
+import org.slasoi.common.messaging.pubsub.PubSubManager;
+import org.slasoi.common.messaging.pubsub.PubSubMessage;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+
+
+public aspect InstrumentationInterceptor {
+
+	//private PubSubProxy pubSubProxy;
+	private HotDeploy hD;
+	private BPIDatabase BPIdb;
+	private Map<String,String> startOps;
+	private Map<String, String> startVars;
+	private PubSubManager manager;
+	private String channel ="DOETest";
+	
+
+	
+
+		//Setup pointcuts
+	
+
+	pointcut startProcess(AeBusinessProcess process):
+		execution(public void AeBusinessProcess.execute()) && target(process);
+	
+	before (AeBusinessProcess process): startProcess(process) {
+			
+	}
+	
+	pointcut endProcess(AeBusinessProcess process):
+		execution(public void AeBusinessProcess.terminate()) && target(process);
+	
+	after (AeBusinessProcess process): endProcess(process) {
+		
+	}
+
+	/**
+	 * Pointcut per bloccare l'esecuzione di ActiveBPEL all'avvio del process engine
+	 * @param processEngine
+	 */
+	pointcut startEngine(AeBusinessProcessEngine processEngine):
+		execution(public void AeBusinessProcessEngine.start()) && target(processEngine);
+
+	
+before(AeBusinessProcessEngine processEngine): startEngine(processEngine){
+	
+
+		 this.BPIdb = new DerbyBPIDatabase();
+		 ((DerbyBPIDatabase)BPIdb).connectAndCreateDB();
+		 this.startOps = new HashMap<String,String>();
+		 this.startVars = new HashMap<String, String>();
+		 
+		 Settings settings = this.getPubSubSettings();
+		 
+		 try {
+				manager = PubSubFactory.createPubSubManager(settings);
+			} catch (MessagingException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			};
+			
+			try {
+				manager.createChannel(new Channel(channel));
+			} catch (MessagingException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			};
+		 
+    	// Hot deployment instantiation
+		/*try {
+			hD = new HotDeploy (BPIdb);
+			hD.start();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		*/
+		
+
+}
+
+	/**
+	 * Pointcut per bloccare l'esecuzione di ActiveBPEL quando il process engine viene fermato
+	 * @param processEngine
+	 */
+	pointcut stopEngine(AeBusinessProcessEngine processEngine):
+		execution(public void AeBusinessProcessEngine.stop()) && target(processEngine);
+
+
+	
+	before(AeBusinessProcessEngine processEngine): stopEngine(processEngine){
+		//   ## DATABASE SHUTDOWN SECTION ## 			
+	    /*** In embedded mode, an application should shut down Derby.
+	       Shutdown throws the XJ015 exception to confirm success. ***/				  
+	   // hD.killHotDeploy();
+		// Attendiamo che il thread che gestisce l'hot deployment venga chiuso
+		while(hD.isAlive()) {
+			//DO NOTHING
+		}       
+		this.BPIdb.closeAndDeleteDB();		
+		//this.pubSubProxy.closeAll();
+		
+	}
+	
+	
+	
+	//Interaction pointcuts
+	
+	
+
+pointcut replyExecute(AeActivityReplyImpl aeAct):
+	execution(public void AeActivityReplyImpl.execute()) && target(aeAct);
+			
+
+	after(AeActivityReplyImpl aeAct): replyExecute(aeAct) {
+		//Managing AFTER REPLY
+		
+		System.out.println("[SENSOR] Checking for Reply instrumentation");
+		
+		//Get WorkflowNode information for this specific activity
+		
+		String processName = aeAct.getProcess().getName().getLocalPart();
+		String operation = ((AeActivityReplyDef)aeAct.getDefinition()).getOperation();
+		String locPath = ((AeActivityReplyDef)aeAct.getDefinition()).getLocationPath().replace("'", "$$");
+		
+		System.out.println("[SENSOR] Process name: " + processName);
+		System.out.println("[SENSOR] Operation name: " + operation);
+		System.out.println("[SENSOR] Location path: " + locPath);
+		
+		ArrayList<DataWorkflow> rules = null;
+		
+		try {
+			 rules = BPIdb.extractWorkflowNode(processName, locPath);
+		} catch (SQLException e1) {
+			e1.printStackTrace();
+		}
+		
+		System.out.println("[SENSOR] Number of rules extracted: " + rules.size());
+		
+		if (rules!=null && rules.size()>0) {
+			
+			ArrayList<DataWorkflow> filteredRules = filterRulesByProcessID(rules, aeAct);	
+			
+			if (filteredRules != null && filteredRules.size()>0) {
+				
+				ArrayList<String> channels = this.getChannels(filteredRules);
+				
+				String processStartOperationName = this.startOps.get(aeAct.getProcess().getName().toString());
+				
+				String output = EventFactory.createReplyEvent(aeAct, processStartOperationName);
+				
+				System.out.println("[SENSOR] Event is being sent on event channel " + channels.get(0));
+				
+				PubSubMessage message = new PubSubMessage(channel, output);
+				try {
+					manager.publish(message);
+				} catch (MessagingException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				
+			}
+		}
+		
+	}
+
+	pointcut invokeExecute(AeActivityInvokeImpl aeAct):
+		execution(public void AeActivityInvokeImpl.execute()) && target(aeAct);
+	
+	after(AeActivityInvokeImpl aeAct): invokeExecute(aeAct) {
+		
+		//Managing BEFORE INVOKE
+		
+		String processName = aeAct.getProcess().getName().toString();
+		String operation = ((AeActivityInvokeDef)aeAct.getDefinition()).getOperation();
+		ArrayList<DataWorkflow> rules = null;
+		
+		try {
+			 rules = BPIdb.extractWorkflowNode(processName, operation);
+		} catch (SQLException e1) {
+			e1.printStackTrace();
+		}
+		
+		if (rules!=null && rules.size()>0) {
+		
+			ArrayList<DataWorkflow> filteredRules = this.filterRulesByProcessIDAndStatus(rules, "input", aeAct);
+			
+			if (filteredRules!= null && filteredRules.size()>0) {
+		
+				ArrayList<String> channels = this.getChannels(filteredRules);
+				
+				String processStartOperationName = this.startOps.get(aeAct.getProcess().getName().toString());
+				
+				String output = EventFactory.createInvokeEvent(aeAct, false, processStartOperationName);
+				
+				PubSubMessage message = new PubSubMessage(channel, output);
+				try {
+					manager.publish(message);
+				} catch (MessagingException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+		
+		}
+			
+	}
+	
+
+
+	pointcut activityCompleted(AeActivityImpl aeAct):
+		execution(protected void AeActivityImpl.objectCompleted()) && target(aeAct);
+	
+	before(AeActivityImpl aeAct): activityCompleted(aeAct) {
+
+		if (aeAct instanceof AeActivityInvokeImpl) {
+			//Managing AFTER INVOKE
+			
+			String processName = aeAct.getProcess().getName().toString();
+			String operation = ((AeActivityInvokeDef)aeAct.getDefinition()).getOperation();
+			ArrayList<DataWorkflow> rules = null;
+			
+			try {
+				 rules = BPIdb.extractWorkflowNode(processName, operation);
+			} catch (SQLException e1) {
+				e1.printStackTrace();
+			}
+			
+			if (rules!=null && rules.size()>0) {
+				
+				ArrayList<DataWorkflow> filteredRules = this.filterRulesByProcessIDAndStatus(rules, "outout", aeAct);
+				
+				if (filteredRules!= null && filteredRules.size()>0) {
+			
+					ArrayList<String> channels = this.getChannels(filteredRules);
+					
+					String processStartOperationName = this.startOps.get(aeAct.getProcess().getName().toString());
+					
+					String output = EventFactory.createInvokeEvent(aeAct, true, processStartOperationName);
+					
+					PubSubMessage message = new PubSubMessage(channel, output);
+					try {
+						manager.publish(message);
+					} catch (MessagingException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+				}
+			}
+			
+		}
+		
+	}
+	
+	after(AeActivityImpl aeAct): activityCompleted(aeAct) {
+		
+		if (aeAct instanceof AeActivityReceiveImpl) {
+			
+			//Managing AFTER RECEIVE
+			
+			System.out.println("[SENSOR] Checking for Receive instrumentation");
+			
+			AeActivityReceiveDef def = (AeActivityReceiveDef)aeAct.getDefinition();
+			
+			boolean createsInstance = def.isCreateInstance();
+			String output=null; 
+			
+			if (createsInstance) {
+				
+				String processName = aeAct.getProcess().getName().getLocalPart().toString();
+				
+				if (this.startOps.containsKey(processName) == false) {
+					this.startOps.put(processName, def.getOperation());
+					this.startVars.put(processName, def.getVariable());
+				}
+				
+			}
+			
+			String processName = aeAct.getProcess().getName().getLocalPart().toString();
+			String operation = def.getOperation();
+			String locPath = def.getLocationPath().replace("'", "$$");
+			
+			System.out.println("[SENSOR] Process name: " + processName);
+			System.out.println("[SENSOR] Operation name: " + operation);
+			System.out.println("[SENSOR] Location path: " + locPath);
+			
+			ArrayList<DataWorkflow> rules = null;
+			try {
+				 rules = BPIdb.extractWorkflowNode(processName, locPath);
+			} catch (SQLException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
+			
+			System.out.println("[SENSOR] Number of rules extracted: " + rules.size());
+			
+			if (rules!=null && rules.size()>0) {
+			
+				ArrayList<DataWorkflow> filteredRules = filterRulesByProcessID(rules, aeAct);
+				
+				System.out.println("[SENSOR] Number of filtered rules " + filteredRules.size());
+				
+				if (filteredRules != null && filteredRules.size()>0) {
+			
+					ArrayList<String> channels = getChannels(rules);
+					
+					String processStartOperationName = this.startOps.get(aeAct.getProcess().getName().getLocalPart().toString());
+					
+					output = EventFactory.createReceiveEvent(aeAct, processStartOperationName);
+					
+					System.out.println("[SENSOR] output is: " + output);
+					
+					System.out.println("[SENSOR] Event is being sent on event channel " + channels.get(0));
+
+					PubSubMessage message = new PubSubMessage(channel, output);
+					try {
+						manager.publish(message);
+					} catch (MessagingException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+				}
+			
+			}
+		}
+		
+	}
+	
+	
+	
+	//Supporting methods
+	
+	
+	
+	
+	private ArrayList<DataWorkflow> filterRulesByProcessIDAndStatus(ArrayList<DataWorkflow> rules, String status, AeActivityImpl aeAct) {
+		// TODO Auto-generated method stub
+		
+		ArrayList<DataWorkflow> filteredRules = new ArrayList<DataWorkflow>();
+		
+		Map<String,String> processState = this.getGlobalVariableState(aeAct);
+		
+		for (DataWorkflow rule : rules) {
+			if (rule.getStatus().equals(status)) {
+				String correlationKey = rule.getCorrelationKey();		
+				if (processState.containsKey(correlationKey)) {
+					String correlationValue = rule.getCorrelationValue();
+					if (processState.get(correlationKey).equals(correlationValue)) {
+						filteredRules.add(rule);
+					}
+				}
+			}
+			
+		}
+
+		return filteredRules;
+	}
+	
+	private ArrayList<DataWorkflow> filterRulesByProcessID(ArrayList<DataWorkflow> rules, AeActivityImpl aeAct) {
+		// TODO Auto-generated method stub
+		
+		ArrayList<DataWorkflow> filteredRules = new ArrayList<DataWorkflow>();
+		
+		IAeVariable var = this.getProcessInputVariable(aeAct);
+		IAeMessageData data = null;
+		Element elData = null;
+		
+		//get actual data
+		if (var.isElement()) {
+			System.out.println("[SENSOR] Var is element!");
+			try {
+				elData = var.getElementData();
+				//System.out.println("[SENSOR] Element local name " + elData.getLocalName());
+				
+				if (elData == null ) return null;
+				
+				//System.out.println("[SENSOR] Element data has child nodes " + elData.getChildNodes().getLength());
+				
+				for (DataWorkflow dwf : rules) {
+					if (this.checkCorrelation(elData, dwf.getCorrelationKey(), dwf.getCorrelationValue())==true) {
+						filteredRules.add(dwf);
+					}
+				}
+				
+			} catch (AeUninitializedVariableException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		else if (var.isMessageType()) {
+			System.out.println("[SENSOR] Var is message type!");
+			try {
+				data = var.getMessageData();
+				
+				if (data == null) return null;
+				
+				for (DataWorkflow dwf : rules) {
+					if (this.checkCorrelation(data, dwf.getCorrelationKey(), dwf.getCorrelationValue())==true) {
+						filteredRules.add(dwf);
+					}
+				}
+				
+			} catch (AeUninitializedVariableException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		else if (var.isType()) {
+			System.out.println("[SENSOR] Var is type!");
+		}
+		
+		return filteredRules;
+	}
+	
+	private boolean checkCorrelation(Element elData, String correlationKey,
+			String correlationValue) {
+		// TODO Auto-generated method stub
+		
+		NodeList children = elData.getChildNodes();
+		
+		for (int i =0; i< children.getLength(); i++) {
+			
+			Node n = children.item(i);
+			
+			if (n != null) {
+				
+				String local = n.getLocalName();
+				//System.out.println("[SENSOR] local name for node is " + local);
+				if (local != null) {
+					if (local.equals(correlationKey)) {
+						//System.out.println("[SENSOR] correlationKey " + correlationKey);
+						Node valueNode = n.getFirstChild();
+						
+						if (valueNode != null) {
+							//System.out.println("[SENSOR] Value " + valueNode.getNodeValue());
+							//System.out.println("[SENSOR] correlationValue " + correlationValue);
+							if (valueNode.getNodeValue().equals(correlationValue)) {
+								//System.out.println("[SENSOR] We have a match");
+								return true;
+							}
+						}
+						else {
+							//System.out.println("[ERROR] nodeValue is null");
+						}
+						
+					}
+				}
+			}
+			else {
+				System.out.println("[ERROR] Node is null");
+			}
+			
+						
+			/*
+			if (n.getLocalName().equals(correlationKey)) {
+				if (n.getNodeValue().equals(correlationValue))
+					return true;
+			}
+			*/
+			
+			
+		}
+		
+		return false;
+	}
+
+	private boolean checkCorrelation(IAeMessageData data, String correlationKey, String correlationValue) {
+
+		
+			System.out.println("[SENSOR] Correlating...");
+			System.out.println("[SENSOR] key = " + correlationKey);
+			System.out.println("[SENSOR] value = " + correlationValue);
+			
+			Iterator dataNames = data.getPartNames();
+			
+			while (dataNames.hasNext()){
+				String datumName = (String) dataNames.next();
+				System.out.println("[SENSOR] Datum name: " + datumName);
+				if (datumName.equals(correlationKey)) {
+					if (((String)data.getData(datumName).toString()).equals(correlationValue))
+						return true;
+				}
+				
+			}	
+			
+			return false;
+			
+	}
+
+	private IAeVariable getProcessInputVariable(AeActivityImpl aeAct) {
+		
+		String processName = aeAct.getProcess().getName().getLocalPart();
+		
+		IAeVariable inputVar = aeAct.findVariable(this.startVars.get(processName).toString());
+		
+		return inputVar;
+	}
+	
+	private Map<String, String> getGlobalVariableState(AeActivityImpl aeAct) {
+			
+		Map<String,String> processState = new HashMap<String, String>();
+
+		
+		IAeProcessSnapshot snapshot = null;
+		try {
+			snapshot = aeAct.getProcess().getProcessSnapshot();
+		} catch (AeBusinessProcessException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		
+		if (snapshot==null) System.out.println("[SENSOR - ERROR] Process snapshot is null!");
+		else {
+			System.out.println("[SENSOR] Snapshot is not null!");
+		}
+		
+		String[] varPaths = null;
+		varPaths = (String[]) snapshot.getVariableLocationPaths().toArray();
+		
+		if (varPaths != null) System.out.println("[SENSOR] varPaths: " + varPaths.length);
+		
+		for (int i = 0; i < varPaths.length; i++) {
+			String path = varPaths[i];
+			
+			Integer[] versions = null;
+			versions = (Integer[]) snapshot.getVariableVersionNumbers(path).toArray();
+			
+			for (int j = 0; j < versions.length; j++) {
+				IAeVariable var;
+				try {
+					var = snapshot.getVariable(path, versions[j].intValue());
+					if (var.isElement()) {
+						processState.put(var.getName(), var.getElementData().getTextContent());
+					}
+				} catch (AeBusinessProcessException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+	
+			}
+				
+		}
+		
+		return processState;
+		
+	}
+
+
+	
+private ArrayList<String> getChannels(ArrayList<DataWorkflow> rules) {
+		// TODO Auto-generated method stub
+	
+		ArrayList<String> channels = new ArrayList<String>();
+		
+		for (DataWorkflow datum : rules) {
+			ArrayList<String> eprs = datum.getTargetEPRs();
+			for (String epr : eprs) {
+				if (channels.contains(epr) == false){
+					channels.add(epr);
+				}
+			}
+			
+		}
+		
+		return channels;
+	}
+
+private Settings getPubSubSettings() {
+	Settings settings = new Settings();
+	settings.setSetting(Setting.pubsub, "xmpp");
+	settings.setSetting(Setting.xmpp_username, "primitive-ecf");
+	settings.setSetting(Setting.xmpp_password, "primitive-ecf");
+	settings.setSetting(Setting.xmpp_host, "testbed.sla-at-soi.eu");
+	settings.setSetting(Setting.xmpp_port, "5222");
+	settings.setSetting(Setting.messaging, "xmpp");
+	settings.setSetting(Setting.pubsub, "xmpp");
+	settings.setSetting(Setting.xmpp_service, "testbed.sla-at-soi.eu");
+	settings.setSetting(Setting.xmpp_resource, "test");
+	settings.setSetting(Setting.xmpp_pubsubservice, "pubsub.testbed.sla-at-soi.eu");
+	
+	return settings;
+}
+
+
+	
+}

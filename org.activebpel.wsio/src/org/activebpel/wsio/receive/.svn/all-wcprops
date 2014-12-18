@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/receive
+END
+AeMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/receive/AeMessageContext.java
+END
+IAeMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/receive/IAeMessageContext.java
+END
+IAeMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/receive/IAeMessageQueue.java
+END
+AeTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/receive/AeTimeoutException.java
+END
+AeRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sla_at_soi/!svn/ver/9778/project/Software/Y2/DOE/org.activebpel.wsio/src/org/activebpel/wsio/receive/AeRequestException.java
+END

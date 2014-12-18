@@ -1,0 +1,33 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from modifica WSDL service -->
+
+  <service name="modificaPort" provider="java:RPC" style="rpc" use="encoded">
+      <parameter name="wsdlTargetNamespace" value="http://adapatations/adaptationService.wsdl"/>
+      <parameter name="wsdlServiceElement" value="modifica"/>
+      <parameter name="schemaUnqualified" value="http://sample/wsdl/bpelServer.wsdl"/>
+      <parameter name="wsdlServicePort" value="modificaPort"/>
+      <parameter name="className" value="adapatations.adaptationService_wsdl.ModificaBindingSkeleton"/>
+      <parameter name="wsdlPortType" value="modificaPT"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <parameter name="allowedMethods" value="*"/>
+
+      <arrayMapping
+        xmlns:ns="http://sample/wsdl/bpelServer.wsdl"
+        qname="ns:ArrayOfString"
+        type="java:java.lang.String[]"
+        innerType="cmp-ns:string" xmlns:cmp-ns="http://www.w3.org/2001/XMLSchema"
+        encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+      />
+  </service>
+</deployment>

@@ -1,0 +1,44 @@
+<project name="org.activebpel.rt.bpel.server" default="jar tomcat/shared/lib/ae_rtbpelsvr.jar" basedir=".">
+	<description>
+       File di build per la creazione della libreria ae_rtbpelsvr.jar e la copia 
+   	   nella directory shared\lib nella quale è deployata activeBPEL
+   </description>
+
+	<!-- ================== Property Definitions ===================== -->
+
+	<property file="ae.build.properties"/>
+	<property file="${basedir}/ae.build.properties"/>
+
+	<!-- ================= File and Directory Names ==================== -->
+
+	<property name="local_dist_dir" value="${basedir}/dist"/>
+	<property name="tomcat_dist_dir" value="C:/apache-tomcat-5.5.27/shared/lib"/>
+	<property name="src"  value="${basedir}/src"/>
+	<property name="classes"  value="${basedir}/classes"/>
+	<property name="META-INF"  value="${basedir}/META-INF"/>
+
+	<!-- ================= Targets List ==================== -->
+
+	<target name="jar tomcat/shared/lib/ae_rtbpelsvr.jar" depends="Make local_dist_dir, jar local_dist_dir/ae_rtbpelsvr.jar, Copy ae_rtbpelsvr.jar in tomcat/shared/lib">
+	</target>
+
+	<target name="Make local_dist_dir">
+		<delete dir="${local_dist_dir}" />
+		<mkdir dir="${local_dist_dir}" />
+	</target>
+
+	<target name="jar local_dist_dir/ae_rtbpelsvr.jar">
+		<mkdir dir="${classes}/META-INF" />
+		<copydir dest="${classes}/META-INF" src="${META-INF}"/>
+		<jar destfile="${local_dist_dir}/ae_rtbpelsvr.jar" basedir="${classes}" update="true"/>
+	</target>
+
+	<target name="Copy ae_rtbpelsvr.jar in tomcat/shared/lib">
+		<copy todir="${tomcat_dist_dir}" overwrite="true">
+			<fileset dir="${local_dist_dir}" includes="ae_rtbpelsvr.jar"/>
+		</copy>
+	</target>
+</project>
+
+
+
